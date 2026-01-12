@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;  
+    background-color: blue; 
+    border-radius: 10px;
+}
+img {
+    height: 300px;
+    width: 469px;
+    margin-bottom: 20px;
+}
