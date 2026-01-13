@@ -1,2 +1,83 @@
-# DAB
-My first repository
+[fifa.html](https://github.com/user-attachments/files/24587474/fifa.html)
+<!DOCTYPE html>
+<HTML>
+<head>
+    <title>number of countries that have qualified for world cup</title> 
+    <link rel="stylesheet" href="fifa.css" type="text/css">   
+</head>
+<h1><b>2026 FIFA WORLD CUP QUALIFIERS</b></h1>
+<body>
+    <P>As of now, <i>a total of 48 countries</i> will ultimately 
+        compete in the <b>fifa world cup.</b> that's a fixed number of 
+    teams in the tournament's expanded format. 
+    </P>
+    <p>However, not all 48 teams have been confirmed yet:</p>
+    <ul>
+        <li><b>42 teams have already qualified so far</b></li>
+        <li><b>The remaining 6 places</b> will be decided through playoff
+        matches (including European and inter-continental playoffs)
+        <b>scheduled for march 2026</b></li>
+    </ul>
+    <p><b>So, right now;</b></p>
+    <ul>
+        <li><i>42 teams have qualified</i></li>
+        <li><i>48 teams will be in the tournament once qualification 
+            is complete
+        </i></li>
+    </ul>
+    <h1><b>COUNTRIES THAT HAVE QUALIFIED FOR WORLD CUP ACCORDING TO 
+ THEIR 
+        CONTINENTS</b>
+    </h1>
+    <img src="fifa image.jpg" alt="fifa world cup">
+    <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th scope="col">Number of countinents</th>
+                <th scope="col">Number of countries</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row"><b>1.</b></th>
+                <td><b>North America(CONCACAF)</b></td>
+                <td>USA,Canada,Mexico,Panama,Haiti,Curacoa</td>
+               <tr>
+                 <th scope="row"><b>2.</b></th>
+                <td><b>Africa(CAF)</b></td>
+                <td>Cape Verde,Ghana,Ivory Coast,Morocco,
+                    Senegal,South-africa,Tunisia
+                </td>
+               </tr>
+               <tr>
+                <th scope="row"><b>3.</b></th>
+                <td><b>Asia(AFC)</b></td>
+                <td>Iran,Australia,Japan,Jordan,Qatar,
+                    Saudi-Arabia,South-Korea,Uzbekistan(first time)</td>
+              </tr>
+              <tr>
+                <th scope="row"><b>4.</b></th>
+                <td><b>South-America(CONMEBOL)</b></td>
+                <td>Argentina,Brazil,Colombia,Ecuador,
+                    Paraguay,Uruguay</td>
+              </tr>
+              <tr>
+                <th scope="row"><b>5.</b></th>
+                <td><b>Europe(UEFA)</b></td>
+                <td>Austria,Belgium,Croatia,England,France,Germany,
+                    Nertherlands,Norway,Portugal,Scotland,Spain,Switzerland</td>
+              </tr>
+              <tr>
+                <th scope="row"><b>6.</b></th>
+                <td><b>Oceania(OFC)</b></td>
+                <TD>New Zealand</TD>
+              </tr>
+            </tbody>
+    </table>
+    <p>However, lets not forget that the host countries which are 
+        canada,mexico and USA have authomatic qualifications.</p>
+    </body>
+    </html>
+[fifa.css](https://github.com/user-attachments/files/24587488/fifa.css)
+[README.md](https://github.com/user-attachments/files/24587508/README.md)
