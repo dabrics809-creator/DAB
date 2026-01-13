@@ -1,4 +1,6 @@
-[fifa.html](https://github.com/user-attachments/files/24587474/fifa.html)
+[fifa.css](https://github.com/user-attachments/files/24588680/fifa.css)
+
+[fifa.html](https://github.com/user-attachments/files/24588686/fifa.html)
 <!DOCTYPE html>
 <HTML>
 <head>
@@ -79,5 +81,3 @@
         canada,mexico and USA have authomatic qualifications.</p>
     </body>
     </html>
-[fifa.css](https://github.com/user-attachments/files/24587488/fifa.css)
-[README.md](https://github.com/user-attachments/files/24587508/README.md)
